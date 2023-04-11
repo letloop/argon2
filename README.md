@@ -1,6 +1,6 @@
 # `(import (letloop argon2))`
 
-> Argon2 is award winning password hasher.
+> Award winning password hasher.
 
 It is useful backend side to implement user accounts, and verify that
 as user claiming to be someone can provide an input that is same as
